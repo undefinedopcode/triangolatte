@@ -7,7 +7,7 @@ import (
 	"log"
 	"math"
 
-	"github.com/tchayen/triangolatte"
+	"github.com/undefinedopcode/triangolatte"
 )
 
 // GPX is the root element in the XML file.
