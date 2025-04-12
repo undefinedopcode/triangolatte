@@ -7,7 +7,7 @@ import (
 	"log"
 	"math"
 
-	"github.com/tchayen/triangolatte"
+	"github.com/undefinedopcode/triangolatte"
 )
 
 // Building collects meta data about building and its points.
