@@ -292,7 +292,7 @@ func Polygon(points []Point) ([]float64, error) {
 
 			ear.Remove()
 			ear = ear.Next
-			stop = stop.Next
+			stop = ear
 			continue
 		}
 
